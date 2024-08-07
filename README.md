@@ -1,66 +1,60 @@
-<div align="center">
-<img src="" align="center" height="" width="600" />
-</div>  
+<!-- <div align="center">
+<img src="assets/meta.png" align="center" height="" width="" />
+</div>   -->
   
 
-### <div align="center">I'm QualitasKontrolle, a Backend developer & DevOps enthusiast</div>  
-  
+###     Who Am I?  
 
-- 🔭 I’m currently working on [Github Actions](https://github.com/QualitatsKontrolle/github-actions.git)  
-  
+I am a passionate, self-taught backend developer with a diverse background in different tech. I've dedicated the last 2 years to mastering Rust-lang, building efficient systems. In addition to that, I've expolored (and played around) the world of Python, working with such frameworks as Django & Flask to create dynamic web applications.
 
-- 🌱 I’m currently learning Linux and Nginx  
-  
+Bash scripting is another area I have extensive experience, automating tasks & improving workflow efficiency. Recently, I've been dipping my fingers into Github Actions, experimenting and leveraging its capabilities to streamline CI/CD processes over the past 5 weeks.
 
-- ❓ Ask me about anything related to Rust, Python, Bash Scripting, but also cars, bikes, ink and anime :)  
-  
+<br/>
 
-- ⚡ Fun fact: haven't found one yet  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kaytu_xx&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill Set - Languages & Tools
 
 
 
-</td><td valign="top" width="33%">
+### Languages:
+
+| Python3 | C | Rust | Bash | YAML |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="55" height="55"/>|
 
 
 
-### Backend  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
-</div>
+### Frameworks & Libraries for Python3:
 
-</td><td valign="top" width="33%">
+| JSON | Django | Flask | Pandas | DjangoREST |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON"  alt="JSON" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"  alt="Django" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="DjangoREST" alt="DjangoREST" width="55" height="55"/>|
 
 
 
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+### Tools for DevOps:
 
-</td></tr></table>  
+| Git | Docker | Python3 | MySQL | Postgres | SQLite | Github Actions | Linux |
+|----------|----------|----------|----------|----------|----------|-------------|-------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python3" alt="Python3" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="Postgres" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="Github Actions" alt="Github Actions" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|
 
-<br/>  
+
+
+### Environments, Testing, Other:
+
+| NginX | Git | Docker | Pytest | Heroku |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NginX" alt="NginX" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="55" height="55"/>|
+
+
+
+### Operating System(s):
+
+| Linux |
+|----------|
+|   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>|
+
+
+<br/>
 
 
 ## Connect with me  
@@ -75,26 +69,30 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=QualitatsKontrolle&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QualitatsKontrolle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" /></div>
-
-<br/>  
-
-  
-
-<br/>  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=QualitatsKontrolle&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 
-<br/>  
-
-  
-
-<br/>  
+---
 
 
-<br />
 
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=QualitatsKontrolle&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QualitatsKontrolle&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=QualitatsKontrolle&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 ----
 
 
